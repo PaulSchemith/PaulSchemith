@@ -19,4 +19,3 @@
 |---------------------------------------------------------------------------------------------------------------------------|
 | Passionate FullStack Developer with a wide range of skills, from web development to advanced software programming.       |
 | I automate complex tasks and create efficient scripts, leveraging Python and Selenium for test automation and web scraping. |
-| I excel in building immersive 3D experiences and adapt to all kinds of projects, whether application development, automation, or infrastructure. |
