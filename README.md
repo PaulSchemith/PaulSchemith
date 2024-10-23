@@ -1,15 +1,15 @@
-## 🚀 FullStack Developer | Étudiant à **42 Paris**
+## 🚀 FullStack Developer | Student at **42**
 
 ### ⚡️ Tech Stack :
 
 [![My Skills](https://skillicons.dev/icons?i=docker,react,threejs,nodejs,django,python,selenium,c,cpp)](https://skillicons.dev)
 
-🔧 **Développeur FullStack passionné**, j'explore un large éventail de technologies, allant du **développement web** à la **programmation logicielle avancée**. Actuellement étudiant à **42 Paris**, je maîtrise aussi bien des outils comme **React** pour le front-end que **Node.js** et **Django** pour des back-ends robustes.
+🔧 **Passionate FullStack Developer** with a wide range of skills, from **web development** to **advanced software programming**. As a student at **42**, I’m proficient in tools like **React** for front-end development, as well as **Node.js** and **Django** for building robust back-end services.
 
-🐍 Avec **Python**, j’automatise des tâches complexes et je crée des scripts efficaces, notamment avec **Selenium** pour l’automatisation de tests et l’exploration de données web.
+🐍 With **Python**, I automate complex tasks and create efficient scripts, leveraging **Selenium** for test automation and web scraping.
 
-🌍 Mes compétences couvrent également le **C/C++**, garantissant une maîtrise approfondie du développement bas niveau, ainsi que **Docker** pour des environnements de déploiement performants.
+🌍 My skills also include **C/C++**, ensuring deep knowledge of low-level programming, along with **Docker** for efficient deployment environments.
 
-🎮 Je suis aussi capable de créer des expériences immersives avec **Three.js**, et d’intégrer des solutions de bout en bout tout en m’assurant de l'optimisation et de la qualité.
+🎮 I'm capable of building immersive 3D experiences using **Three.js**, and I excel in creating end-to-end solutions with a focus on optimization and quality.
 
-🚀 **Curieux et toujours en quête de nouveaux défis**, je combine des compétences variées pour m'adapter à tous types de projets, qu'il s'agisse de développement d'applications, d'automatisation ou d'infrastructure.
+🚀 **Curious and always seeking new challenges**, I combine a diverse set of skills to adapt to all kinds of projects, whether it's application development, automation, or infrastructure.
