@@ -13,8 +13,6 @@
 | **3D Development**            | Three.js                                                    |
 | **General Skills**            | End-to-end solutions, optimization, quality assurance       |
 
-### About Me:
-
 | **Description**                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------|
 | Passionate FullStack Developer with a wide range of skills, from web development to advanced software programming.       |
