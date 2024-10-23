@@ -2,7 +2,7 @@
 
 ### ⚡️ Tech Stack :
 
-[![My Skills](https://skillicons.dev/icons?i=docker,react,threejs,nodejs,django,python,selenium,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,c,cpp,linux,bash,react,threejs,nodejs,django,python,selenium)](https://skillicons.dev)
 
 🔧 **Passionate FullStack Developer** with a wide range of skills, from **web development** to **advanced software programming**. As a student at **42**, I’m proficient in tools like **React** for front-end development, as well as **Node.js** and **Django** for building robust back-end services.
 
