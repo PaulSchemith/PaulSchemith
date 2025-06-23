@@ -2,8 +2,8 @@
 
 ![Typewriter animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Student+at+42;Coding+my+way+to+the+top!)
 
-![Terminal demo](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-![Build Passing](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github)
+![wohimi terminal animation](https://cdn.discordapp.com/attachments/1086549849124569380/1153612586987345972/wohimi-terminal.gif)
+
 
 
 ### ⚡️ Tech Stack
