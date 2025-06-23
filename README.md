@@ -2,7 +2,7 @@
 
 ![Typewriter animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Student+at+42;Coding+my+way+to+the+top!)
 
-![wohimi terminal animation](https://cdn.discordapp.com/attachments/1086549849124569380/1153612586987345972/wohimi-terminal.gif)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&width=500&lines=wohimi+%24+git+clone+https://github.com/PaulSchemith/mon-projet.git;npm+install;npm+start)
 
 
 
