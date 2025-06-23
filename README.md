@@ -2,6 +2,7 @@
 
 ![Typewriter animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Student+at+42;Coding+my+way+to+the+top!)
 
+![Terminal demo](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 
 ### ⚡️ Tech Stack
