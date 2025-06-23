@@ -2,8 +2,7 @@
 
 ![Typewriter animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Student+at+42;Coding+my+way+to+the+top!)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&width=500&lines=wohimi+%24+git+clone+https://github.com/PaulSchemith/mon-projet.git;npm+install;npm+start)
-
+![wohimi terminal animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdoaGJydDJzeDFlajhqcTRsZjF2Z2FoNzh4dnR2MWxpMDhyNW1xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 
 ### ⚡️ Tech Stack
