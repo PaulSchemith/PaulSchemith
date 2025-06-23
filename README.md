@@ -2,24 +2,16 @@
 
 ![Typewriter animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Student+at+42;Coding+my+way+to+the+top!)
 ---
-
+| **Description**                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------|
+| Passionate FullStack Developer with a wide range of skills, from web development to advanced software programming.       |
+| I automate complex tasks and create efficient scripts, leveraging Python and Selenium for test automation and web scraping. |
+---
 ### ⚡️ Tech Stack
 
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,c,cpp,linux,bash,react,threejs,nodejs,django,python,selenium)](https://skillicons.dev)
 
 ---
-
-[![My Skills](https://skillicons.dev/icons?i=docker,c,cpp,linux,bash,react,threejs,nodejs,django,python,selenium)](https://skillicons.dev)
 
 | **Skill Area**                | **Technologies**                                               |
 |-------------------------------|--------------------------------------------------------------|
@@ -29,14 +21,6 @@
 | **Containerization**          | Docker                                                       |
 | **3D Development**            | Three.js                                                    |
 | **General Skills**            | End-to-end solutions, optimization, quality assurance       |
-
-| **Description**                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------|
-| Passionate FullStack Developer with a wide range of skills, from web development to advanced software programming.       |
-| I automate complex tasks and create efficient scripts, leveraging Python and Selenium for test automation and web scraping. |
-
-
-
 
 ---
 
