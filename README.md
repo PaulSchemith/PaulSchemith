@@ -32,3 +32,6 @@
   <a href="https://github.com/PaulSchemith"><img src="https://img.shields.io/github/followers/PaulSchemith?style=social" alt="GitHub followers" /></a>
   <a href="https://www.linkedin.com/in/paul-schemith/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdoaGJydDJzeDFlajhqcTRsZjF2Z2FoNzh4dnR2MWxpMDhyNW1xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="wohimi terminal animation" />
+</p>
