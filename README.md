@@ -1,17 +1,15 @@
 # Salut, moi c’est Paul! 👋
 
 ![Typewriter animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Student+at+42;Coding+my+way+to+the+top!)
----
+
 | **Description**                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------|
 | Passionate FullStack Developer with a wide range of skills, from web development to advanced software programming.       |
 | I automate complex tasks and create efficient scripts, leveraging Python and Selenium for test automation and web scraping. |
----
+
 ### ⚡️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=docker,c,cpp,linux,bash,react,threejs,nodejs,django,python,selenium)](https://skillicons.dev)
-
----
 
 | **Skill Area**                | **Technologies**                                               |
 |-------------------------------|--------------------------------------------------------------|
@@ -22,13 +20,11 @@
 | **3D Development**            | Three.js                                                    |
 | **General Skills**            | End-to-end solutions, optimization, quality assurance       |
 
----
 
 ### 📈 Statistiques GitHub
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulSchemith&show_icons=true&theme=radical)
 
----
 
 ### 🚀 Let's connect!
 
