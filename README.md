@@ -6,7 +6,7 @@
 
 | **Skill Area**                | **Technologies**                                               |
 |-------------------------------|--------------------------------------------------------------|
-| **Web Development**           | React, Node.js, Django                                       |
+| **Web Development**           | React, Node.js                                             |
 | **Scripting & Automation**    | Python, Selenium                                             |
 | **Low-Level Programming**     | C, C++, Linux, Bash                                         |
 | **Containerization**          | Docker                                                       |
