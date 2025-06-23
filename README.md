@@ -2,10 +2,7 @@
 
 ![Typewriter animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Student+at+42;Coding+my+way+to+the+top!)
 
-| **Description**                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------|
-| Passionate FullStack Developer with a wide range of skills, from web development to advanced software programming.       |
-| I automate complex tasks and create efficient scripts, leveraging Python and Selenium for test automation and web scraping. |
+
 
 ### ⚡️ Tech Stack
 
@@ -20,6 +17,10 @@
 | **3D Development**            | Three.js                                                    |
 | **General Skills**            | End-to-end solutions, optimization, quality assurance       |
 
+| **Description**                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------|
+| Passionate FullStack Developer with a wide range of skills, from web development to advanced software programming.       |
+| I automate complex tasks and create efficient scripts, leveraging Python and Selenium for test automation and web scraping. |
 
 ### 📈 Statistiques GitHub
 
