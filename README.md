@@ -30,5 +30,4 @@
 ### 🚀 Let's connect!
 
 [![GitHub followers](https://img.shields.io/github/followers/PaulSchemith?style=social)](https://github.com/PaulSchemith)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter&logoColor=white)](https://twitter.com/tonpseudo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-schemith/)  
