@@ -19,11 +19,24 @@
 
 ---
 
-### 💼 Mes projets en bref
+[![My Skills](https://skillicons.dev/icons?i=docker,c,cpp,linux,bash,react,threejs,nodejs,django,python,selenium)](https://skillicons.dev)
 
-- 🚀 [React Web App](https://github.com/PaulSchemith/my-react-app) — Application web moderne avec backend Node.js  
-- 🤖 [Scripts Automation](https://github.com/PaulSchemith/automation-scripts) — Scripts Python & Selenium pour automatiser des tâches  
-- 🌌 [3D Visualizer](https://github.com/PaulSchemith/threejs-visualizer) — Expériences 3D interactives avec Three.js
+| **Skill Area**                | **Technologies**                                               |
+|-------------------------------|--------------------------------------------------------------|
+| **Web Development**           | React, Node.js                                             |
+| **Scripting & Automation**    | Python, Selenium                                             |
+| **Low-Level Programming**     | C, C++, Linux, Bash                                         |
+| **Containerization**          | Docker                                                       |
+| **3D Development**            | Three.js                                                    |
+| **General Skills**            | End-to-end solutions, optimization, quality assurance       |
+
+| **Description**                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------|
+| Passionate FullStack Developer with a wide range of skills, from web development to advanced software programming.       |
+| I automate complex tasks and create efficient scripts, leveraging Python and Selenium for test automation and web scraping. |
+
+
+
 
 ---
 
