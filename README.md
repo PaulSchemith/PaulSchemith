@@ -23,10 +23,6 @@
 | Passionate FullStack Developer with a wide range of skills, from web development to advanced software programming.       |
 | I automate complex tasks and create efficient scripts, leveraging Python and Selenium for test automation and web scraping. |
 
-### 📈 Statistiques GitHub
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulSchemith&show_icons=true&theme=radical)
-
 ### 🚀 Let's connect!
 
   <a href="https://github.com/PaulSchemith"><img src="https://img.shields.io/github/followers/PaulSchemith?style=social" alt="GitHub followers" /></a>
