@@ -97,21 +97,21 @@ $ status --business
 ## ⬢ Comment on travaille
 
 ```
-                            01 ── BRIEFING & AUDIT ──────────────────────────────────────────
-                                On écoute d'abord. Comprendre votre métier, vos contraintes,
-                                vos enjeux réels. Pas de solution avant d'avoir le bon problème.
+                          01 ── BRIEFING & AUDIT ──────────────────────────────────────────
+                              On écoute d'abord. Comprendre votre métier, vos contraintes,
+                              vos enjeux réels. Pas de solution avant d'avoir le bon problème.
 
-                            02 ── ARCHITECTURE ──────────────────────────────────────────────
-                                On conçoit avant de coder. Schéma global, choix techniques,
-                                stratégie de scalabilité. Tout documenté, tout justifié.
+                          02 ── ARCHITECTURE ──────────────────────────────────────────────
+                              On conçoit avant de coder. Schéma global, choix techniques,
+                              stratégie de scalabilité. Tout documenté, tout justifié.
 
-                            03 ── DÉVELOPPEMENT ─────────────────────────────────────────────
-                                Sprints courts, livrables réguliers. Vous voyez avancer.
-                                Code reviewé, testé, documenté à chaque étape.
+                          03 ── DÉVELOPPEMENT ─────────────────────────────────────────────
+                              Sprints courts, livrables réguliers. Vous voyez avancer.
+                              Code reviewé, testé, documenté à chaque étape.
 
-                            04 ── LIVRAISON & SUIVI ─────────────────────────────────────────
-                                Déploiement progressif, monitoring activé, formation de vos
-                                équipes. On ne disparaît pas après la signature.
+                          04 ── LIVRAISON & SUIVI ─────────────────────────────────────────
+                              Déploiement progressif, monitoring activé, formation de vos
+                              équipes. On ne disparaît pas après la signature.
 ```
 
 ---
