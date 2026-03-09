@@ -66,8 +66,12 @@ $ status --business
                           │  SÉCURISÉ    Intégrée dans chaque décision d'architecture,      │
                           │              chaque ligne de code, chaque déploiement.          │
                           │                                                                 │
+                          │─────────────────────────────────────────────────────────────────│
+                          │                                                                 │
                           │  SCALABLE    10 utilisateurs ou 10 millions, même architecture. │
                           │              Votre succès ne sera jamais votre problème.        │
+                          │                                                                 │
+                          │─────────────────────────────────────────────────────────────────│
                           │                                                                 │
                           │  ROBUSTE     Conçu pour durer, s'adapter et performer,          │
                           │              quelles que soient les circonstances.              │
