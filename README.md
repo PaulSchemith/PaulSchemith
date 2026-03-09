@@ -29,7 +29,7 @@ $ cat value-proposition.txt
   > Un seul partenaire. Toute la chaîne de valeur.
   > De la stratégie marketing à l'architecture enterprise.
   > On conçoit, développe et fait évoluer vos solutions.
-  > La sécurité n'est pas un module — elle est dans chaque décision.
+  > La sécurité n'est pas un module, elle est dans chaque décision.
   > On ne disparaît pas après la signature.
 
 $ status --business
@@ -50,7 +50,7 @@ $ status --business
 | `01` | **Applications Web & Mobile**   | Next.js · React Native · Node.js · PostgreSQL | Du MVP au produit enterprise. APIs robustes, interfaces qui convertissent.   |
 | `02` | **Vidéos Hyper-Réalistes**      | Unreal Engine 5 · Blender · 4K/8K             | Marketing de haute précision. Simulateurs de démonstration ou de production. |
 | `03` | **Infrastructure & DevOps**     | AWS · Docker · Kubernetes                     | Scalabilité automatique, CI/CD, monitoring temps-réel.                       |
-| `04` | **Intelligence Artificielle**   | OpenAI · LangChain · RAG                      | Intégration LLM là où l'IA est réellement utile — pas du gadget.             |
+| `04` | **Intelligence Artificielle**   | OpenAI · LangChain · RAG                      | Intégration LLM là où l'IA est réellement utile, pas du gadget.             |
 | `05` | **Scraping & Data Engineering** | Playwright · Python · API-Rest                | Collecte massive, structuration et orchestration de pipelines.               |
 | `06` | **Algorithmie & Optimisation**  | C · C++ · JS · Python                         | Problèmes complexes. Solutions élégantes.                                    |
 
@@ -66,7 +66,7 @@ $ status --business
 │  SÉCURISÉ    Intégrée dans chaque décision d'architecture,       │
 │              chaque ligne de code, chaque déploiement.            │
 │                                                                   │
-│  SCALABLE    10 utilisateurs ou 10 millions — même architecture. │
+│  SCALABLE    10 utilisateurs ou 10 millions, même architecture. │
 │              Votre succès ne sera jamais votre problème.          │
 │                                                                   │
 │  ROBUSTE     Conçu pour durer, s'adapter et performer,           │
