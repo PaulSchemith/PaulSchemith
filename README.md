@@ -9,7 +9,7 @@
   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=700&color=00FFAA&center=true&vCenter=true&width=750&height=45&lines=Solutions+Digitales+B2B;S%C3%A9curis%C3%A9.+Scalable.+Robuste.;Un+seul+partenaire.+Toute+la+cha%C3%AEne+de+valeur.;De+la+strat%C3%A9gie+au+d%C3%A9ploiement+%E2%80%94+sans+compromis." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=700&color=00FFAA&center=true&vCenter=true&width=750&height=45&lines=Solutions+Digitales+B2B;S%C3%A9curis%C3%A9.+Scalable.+Robuste.;Un+seul+partenaire.+Toute+la+cha%C3%AEne+de+valeur.;De+la+strat%C3%A9gie+au+d%C3%A9ploiement." alt="Typing SVG" />
 
 <br/>
 
