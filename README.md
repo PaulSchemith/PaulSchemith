@@ -6,8 +6,8 @@
 ██╔══██╗██╔══██╗██║   ██║██║
 ██████╔╝███████║██║   ██║██║
 ██╔═══╝ ██╔══██║██║   ██║██║
-██║     ██║  ██║╚██████╔╝███████╗
-╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+     ██║     ██║  ██║╚██████╔╝███████╗
+     ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=00FFAA&center=true&vCenter=true&width=700&height=50&lines=FullStack+Developer;I+build+things+that+hold+under+pressure.;TypeScript+%7C+Next.js+%7C+GraphQL+%7C+K8s;Low-level+roots.+Web+scale.+No+shortcuts." alt="Typing" />
@@ -50,7 +50,7 @@ $ stack --list --verbose
 ```
 
 | Layer          | Tech                                    |
-| -------------- | --------------------------------------- | 
+| -------------- | --------------------------------------- |
 | **Frontend**   | Next.js · React · TypeScript · Three.js |
 | **API**        | GraphQL · Node.js · REST                |
 | **Backend**    | Django · Python                         |
@@ -80,11 +80,6 @@ const paul: Developer = {
 ---
 
 ## ◆ Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PaulSchemith&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulSchemith&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FFAA&text_color=ffffff&langs_count=8" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulSchemith&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" />
