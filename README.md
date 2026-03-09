@@ -1,43 +1,118 @@
-<!-- HEADER -->
 <div align="center">
 
 ```
-██████╗  █████╗ ██╗   ██╗██╗
-██╔══██╗██╔══██╗██║   ██║██║
-██████╔╝███████║██║   ██║██║
-██╔═══╝ ██╔══██║██║   ██║██║
-     ██║     ██║  ██║╚██████╔╝███████╗
-     ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+  ███╗   ███╗ ██████╗ ███╗   ██╗██╗  ██╗███████╗██╗   ██╗    ██╗      █████╗ ██████╗
+  ████╗ ████║██╔═══██╗████╗  ██║██║ ██╔╝██╔════╝╚██╗ ██╔╝    ██║     ██╔══██╗██╔══██╗
+  ██╔████╔██║██║   ██║██╔██╗ ██║█████╔╝ █████╗   ╚████╔╝     ██║     ███████║██████╔╝
+  ██║╚██╔╝██║██║   ██║██║╚██╗██║██╔═██╗ ██╔══╝    ╚██╔╝      ██║     ██╔══██║██╔══██╗
+  ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║  ██╗███████╗   ██║       ███████╗██║  ██║██████╔╝
+  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=00FFAA&center=true&vCenter=true&width=700&height=50&lines=FullStack+Developer;I+build+things+that+hold+under+pressure.;TypeScript+%7C+Next.js+%7C+GraphQL+%7C+K8s;Low-level+roots.+Web+scale.+No+shortcuts." alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=700&color=00FFAA&center=true&vCenter=true&width=750&height=45&lines=Solutions+Digitales+B2B;S%C3%A9curis%C3%A9.+Scalable.+Robuste.;Un+seul+partenaire.+Toute+la+cha%C3%AEne+de+valeur.;De+la+strat%C3%A9gie+au+d%C3%A9ploiement+%E2%80%94+sans+compromis." alt="Typing SVG" />
 
+<br/>
+
+[![Website](https://img.shields.io/badge/monkey--lab.com-0d0d0d?style=for-the-badge&logo=safari&logoColor=00FFAA)](https://www.monkey-lab.com)
+[![Contact](https://img.shields.io/badge/Prendre_un_RDV-00FFAA?style=for-the-badge&logo=googlecalendar&logoColor=0d0d0d)](https://www.monkey-lab.com/PrendreUnRendezVous)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FFAA)](https://www.linkedin.com/in/paul-schemith/)
-[![GitHub](https://img.shields.io/github/followers/PaulSchemith?style=for-the-badge&color=00FFAA&labelColor=0d0d0d&label=GitHub)](https://github.com/PaulSchemith)
 
 </div>
 
 ---
 
-<!-- TERMINAL INTRO -->
-
 ```bash
 $ whoami
-  > Paul Schemith — FullStack Developer
+  > MonkeyLab — Studio de Solutions Digitales B2B
 
-$ cat philosophy.txt
-  > Build end-to-end. Own the full stack.
-  > Architecture first. Code clean. Ship solid.
-  > Low-level when it counts. Web scale when it matters.
+$ cat value-proposition.txt
+  > Un seul partenaire. Toute la chaîne de valeur.
+  > De la stratégie marketing à l'architecture enterprise.
+  > On conçoit, développe et fait évoluer vos solutions.
+  > La sécurité n'est pas un module — elle est dans chaque décision.
+  > On ne disparaît pas après la signature.
 
-$ status --current
-  > Focus    : FullStack Web
-  > Mode     : building things that don't break
+$ status --business
+  > Disponible    : OUI
+  > Engagement    : Aucun pour un premier RDV
+  > Proposition   : Sous 5 jours ouvrés
+  > Briefing      : 30 minutes suffisent
 ```
 
 ---
 
-## ⬡ Stack
+## ⬡ Ce qu'on livre
+
+<div align="center">
+
+| ⬡    | Expertise                       | Stack                                         | Ce que ça vous apporte                                                       |
+| ---- | ------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------- |
+| `01` | **Applications Web & Mobile**   | Next.js · React Native · Node.js · PostgreSQL | Du MVP au produit enterprise. APIs robustes, interfaces qui convertissent.   |
+| `02` | **Vidéos Hyper-Réalistes**      | Unreal Engine 5 · Blender · 4K/8K             | Marketing de haute précision. Simulateurs de démonstration ou de production. |
+| `03` | **Infrastructure & DevOps**     | AWS · Docker · Kubernetes                     | Scalabilité automatique, CI/CD, monitoring temps-réel.                       |
+| `04` | **Intelligence Artificielle**   | OpenAI · LangChain · RAG                      | Intégration LLM là où l'IA est réellement utile — pas du gadget.             |
+| `05` | **Scraping & Data Engineering** | Playwright · Python · API-Rest                | Collecte massive, structuration et orchestration de pipelines.               |
+| `06` | **Algorithmie & Optimisation**  | C · C++ · JS · Python                         | Problèmes complexes. Solutions élégantes.                                    |
+
+</div>
+
+---
+
+## ◆ Trois mots. Zéro compromis.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  SÉCURISÉ    Intégrée dans chaque décision d'architecture,       │
+│              chaque ligne de code, chaque déploiement.            │
+│                                                                   │
+│  SCALABLE    10 utilisateurs ou 10 millions — même architecture. │
+│              Votre succès ne sera jamais votre problème.          │
+│                                                                   │
+│  ROBUSTE     Conçu pour durer, s'adapter et performer,           │
+│              quelles que soient les circonstances.                │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ◈ Chiffres clés
+
+<div align="center">
+
+![Uptime](https://img.shields.io/badge/Uptime_Garanti-100%25-00FFAA?style=flat-square&labelColor=0d0d0d)
+![Sécurité](https://img.shields.io/badge/Brèches_Sécurité-0-00FFAA?style=flat-square&labelColor=0d0d0d)
+![Proposition](https://img.shields.io/badge/Proposition_Technique-Sous_5j-00FFAA?style=flat-square&labelColor=0d0d0d)
+![Engagement](https://img.shields.io/badge/Premier_RDV-Sans_Engagement-00FFAA?style=flat-square&labelColor=0d0d0d)
+
+</div>
+
+---
+
+## ⬢ Comment on travaille
+
+```
+01 ── BRIEFING & AUDIT ──────────────────────────────────────────
+     On écoute d'abord. Comprendre votre métier, vos contraintes,
+     vos enjeux réels. Pas de solution avant d'avoir le bon problème.
+
+02 ── ARCHITECTURE ──────────────────────────────────────────────
+     On conçoit avant de coder. Schéma global, choix techniques,
+     stratégie de scalabilité. Tout documenté, tout justifié.
+
+03 ── DÉVELOPPEMENT ─────────────────────────────────────────────
+     Sprints courts, livrables réguliers. Vous voyez avancer.
+     Code reviewé, testé, documenté à chaque étape.
+
+04 ── LIVRAISON & SUIVI ─────────────────────────────────────────
+     Déploiement progressif, monitoring activé, formation de vos
+     équipes. On ne disparaît pas après la signature.
+```
+
+---
+
+## ◇ Stack technique
 
 <div align="center">
 
@@ -45,63 +120,31 @@ $ status --current
 
 </div>
 
-```
-$ stack --list --verbose
-```
-
-| Layer          | Tech                                    |
-| -------------- | --------------------------------------- |
-| **Frontend**   | Next.js · React · TypeScript · Three.js |
-| **API**        | GraphQL · Node.js · REST                |
-| **Backend**    | Django · Python                         |
-| **Database**   | PostgreSQL                              |
-| **Infra**      | Docker · Kubernetes · Linux             |
-| **Systems**    | C · C++ · Bash                          |
-| **Automation** | Selenium · Scripting                    |
-
 ---
 
-## ◈ Current Focus
-
-```typescript
-const paul: Developer = {
-  focus: "FullStack Web",
-  stack: ["Next.js", "TypeScript", "GraphQL", "PostgreSQL", "K8s"],
-  strengths: [
-    "end-to-end architecture",
-    "low-level foundations",
-    "3D interfaces",
-  ],
-  building: "things that hold under pressure",
-  available: true,
-};
-```
-
----
-
-## ◆ Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulSchemith&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" />
-</div>
-
----
-
-## ⬢ Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaulSchemith&bg_color=0d0d0d&color=00FFAA&line=00FFAA&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
+## ◆ Votre prochain projet mérite mieux.
 
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdoaGJydDJzeDFlajhqcTRsZjF2Z2FoNzh4dnR2MWxpMDhyNW1xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="480" />
+```
+$ echo "Briefing gratuit · Proposition sous 5 jours · Aucun engagement"
+> Briefing gratuit · Proposition sous 5 jours · Aucun engagement
+```
 
-```
-$ echo "Built clean · Shipped solid · No magic — just craft"
-> Built clean · Shipped solid · No magic — just craft
-```
+**30 minutes pour comprendre votre besoin.**
+**Une proposition technique sous 5 jours.**
+**Aucun engagement de votre côté.**
+
+<br/>
+
+[![Prendre rendez-vous](https://img.shields.io/badge/→_Parler_à_un_expert-00FFAA?style=for-the-badge&logoColor=0d0d0d)](https://www.monkey-lab.com/PrendreUnRendezVous)
+
+<br/>
+
+---
+
+_© 2025 MonkeyLab — Solutions Digitales B2B · Sécurisé · Scalable · Robuste_
+
+[monkey-lab.com](https://www.monkey-lab.com)
 
 </div>
